@@ -1,1 +1,1 @@
-This collection of useful notebooks from around the world.
+This is a collection of useful notebooks from around the world.
